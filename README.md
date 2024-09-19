@@ -34,3 +34,7 @@ No painel de criação da máquina virtual é possivel ver o valor estimado que 
 - Discos
 - Peças
 - Modelo de redundância
+
+## Data Centers - Globo
+
+O site datacenters.microsoft.com/globe/explore oferece um mapa interativo, em 2D ou 3D, que permite visualizar a localização dos datacenters da Microsoft ao redor do mundo. Ele exibe as regiões do Azure, suas geografias e outras informações relacionadas à infraestrutura global da Microsoft. O mapa pode ser filtrado por diferentes categorias e também oferece uma visão geral da presença global da plataforma Azure.
