@@ -38,3 +38,24 @@ No painel de criação da máquina virtual é possivel ver o valor estimado que 
 ## Data Centers - Globo
 
 O site datacenters.microsoft.com/globe/explore oferece um mapa interativo, em 2D ou 3D, que permite visualizar a localização dos datacenters da Microsoft ao redor do mundo. Ele exibe as regiões do Azure, suas geografias e outras informações relacionadas à infraestrutura global da Microsoft. O mapa pode ser filtrado por diferentes categorias e também oferece uma visão geral da presença global da plataforma Azure.
+
+# Criação de Máquinas Virtuais e Area de Trabalho Remoto.
+
+A criação de máquinas virtuais no Azure é bem simples e com diversas configurações que podem facilitar a gestão da infraestrutura. Todas as máquinas e recursos configurados no Azure precisam de um grupo de recursos e esta é segunda configuração ao criar uma máquina virtual. Além disso é possível configurar:
+
+- Nome da máquina
+- Região
+- Zona de disponiblidade
+- Tipo de segurança
+- Sistema operacional
+- Tamanhos
+- Tipo de autenticação
+- Criar um usuário administrador.
+  
+Entre outras configurações é possível também configurar:
+- Disco
+- Rede
+- Gerenciamento
+- Monitoração
+
+E também é possível outras configurações muito úteis à ára de governança.
