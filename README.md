@@ -59,3 +59,39 @@ Entre outras configurações é possível também configurar:
 - Monitoração
 
 E também é possível outras configurações muito úteis à ára de governança e configuração de máquinas virtuals como desktop remoto para facilitar a disponbilidade de máquinas para funcionários sem precisar de fornecer um computador ao usuário.
+
+## Armazenamento
+
+Parar fazer uma configuração de armazenamento a assinatura já vem configurada e deve ser escolhido o grupo de recursos. O nome da conta de armazenamento deve ter nome único.
+
+OBS.: Conta de armazenamento é o nome do armazenamento que está sendo criado.
+
+- Região - Deve ser escolhida de acordo com os requisitos de latência ou até mesmo custo.
+- Desempenho - Pode ser escolhido o `Standard` ou `Premium` que irá determinar a latencia
+- Redundância - Pode ser usada LRS (local), GRS (geográfica), ZRS (Zona) e GZRS(Zona geográfica) que determinará o tipo de redundância este armazendo deverá ter.
+
+Outras configurações permitem a configuração do tipo de armazenamento se é e frio ou quente, configuração de rede, Criptografia e outras configurações.
+
+### Menu: Armazenamento de dados
+
+Configuração de armazenamento, recebimento, compartilhamento e organização de dados e arquivos do Azure.
+
+- Containers - Gerenciamento de pastas (é possível também já configurar um backup)
+- Compartilhamento de arquivos - Ferramenta para criar uma conexão usando o menu `Conectar` disponível para conexão SMB para Windows, Linux e Mac)
+- Filas - Configuração de mensageria
+- Tabelas - Criação de tabelas
+
+### Migração de dados
+
+É possível criar um projeto de migração que viabiliza migrar arquivos e dados da estrutura on-premisses para a cloud usando ferramentas como o AZ Copy ou ainda usando o Azure Databox
+
+- AZ Copy é a aplicação mais simples e leve para usar no terminal para fazer o transportar arquivo e há disponibilidade para Linux, Windows e Mac.
+- Azure Data Box - Modalidade de transporte de dados com um disco rígido que é enviado para cliente, o cliente escreve os dados no disco e encaminha de volta ao Azure para subir na Nuvem. O limite dessa modalidade é de 80TB
+- Data Box Disk - Limite de 35TB
+- Data Box Heavy - Limite de 800TB
+- Data Box job - Limite de 1TB
+Cada serviço do Azure Data Box possui valores diferentes.
+
+### Gerenciador de Armazenamento do Microsoft Azure
+
+Aplicação para gestão de armazenamento. Basta baixar, instalar e fazer a sincronização e a console irá mostrar as assinaturas, contas de armazenamento e mais.
