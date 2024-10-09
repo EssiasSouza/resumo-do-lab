@@ -95,3 +95,19 @@ Cada serviço do Azure Data Box possui valores diferentes.
 ### Gerenciador de Armazenamento do Microsoft Azure
 
 Aplicação para gestão de armazenamento. Basta baixar, instalar e fazer a sincronização e a console irá mostrar as assinaturas, contas de armazenamento e mais.
+
+## Identidade e segurança (ENTRA ID)
+
+Todo usuário deve ser gerenciado no Azure através do Entra ID que determinará funções e permissões dos usuários. É diferente do RBAC pois os usuários gerenciados nessa seção terá permissão apenas para gerenciamento dentro do Entra ID com permissões para mudanças na gestão de usuários.
+
+É possível criar usuários e convidar usuários externos, inclusive em grupo.
+
+- Entra connect - Sincroniza os usuários do ambiente On-premisses para o ambiente de Cloud.
+
+Uma conta deletada tem até 30 dias para ser recuperada.
+
+### Defender for Cloud
+
+Aplicação cloud native e hibrído que traz informações sobre a segurança do ambiente
+
+- Recomendação de segurança - Validador de segurança e sugestão da segurança.
