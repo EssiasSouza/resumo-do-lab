@@ -111,3 +111,12 @@ Uma conta deletada tem até 30 dias para ser recuperada.
 Aplicação cloud native e hibrído que traz informações sobre a segurança do ambiente
 
 - Recomendação de segurança - Validador de segurança e sugestão da segurança.
+
+## CALCULADORAS DE CUSTOS
+
+Existem duas calculadoras dentro do Azure. Um é ideal para as estimativas de preços dos recursos do Azure e a outra serve para cálculo de economia na migração de on-premises para o Azure.
+
+Essa segunda calculadora é chamada de TCO (Total Cust Ownership), ou seja, é a calculadora de custo total de propriedade.
+
+A importância do uso dessas calculadoras dá-se à necessidade de que a empresa precisa avaliar os valores e elencar o que faz sentido ou reduzir o risco de custos inesperados.
+
