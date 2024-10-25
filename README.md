@@ -127,3 +127,11 @@ E um portal de governança com diversas ferramentas
 - Normas de auditoria que a Microsoft obedece para estar em compliance. É um local onde podemos validar quais são as regras de cada país e como são aplicadas.
 - Bloqueio de recursos 
 - Purview 
+
+## Ferramentas de implantação do Azure 
+
+- Cloud Shell. É um botao que abre a ferramenta de execução de comandos PowerShell ou bash. Para usar é necessário um storage account.
+
+o Bicep auxilia a automação de criação de máquinas virtuais 
+
+o Azure Arc é uma ferramenta de gestão de máquinas fora do Azure. Com o ARC é possível fazer atualização e acesso remoto direto na console.
