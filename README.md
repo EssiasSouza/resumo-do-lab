@@ -120,3 +120,10 @@ Essa segunda calculadora é chamada de TCO (Total Cust Ownership), ou seja, é a
 
 A importância do uso dessas calculadoras dá-se à necessidade de que a empresa precisa avaliar os valores e elencar o que faz sentido ou reduzir o risco de custos inesperados.
 
+## Portal de confiança do serviço 
+
+E um portal de governança com diversas ferramentas 
+
+- Normas de auditoria que a Microsoft obedece para estar em compliance. É um local onde podemos validar quais são as regras de cada país e como são aplicadas.
+- Bloqueio de recursos 
+- Purview 
