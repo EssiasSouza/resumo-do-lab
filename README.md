@@ -135,3 +135,11 @@ E um portal de governança com diversas ferramentas
 o Bicep auxilia a automação de criação de máquinas virtuais 
 
 o Azure Arc é uma ferramenta de gestão de máquinas fora do Azure. Com o ARC é possível fazer atualização e acesso remoto direto na console.
+
+## Ferramentas de monitoramento do Azure 
+
+No Azure há diversas ferramentas para monitorar o ambiente, verificar saúde dos recursos e e receber recomendações.
+
+- Azure monitor - Uma ferramenta completa com insights para análises com uma visão ampla de toda a estrutura. Validacao de serviço.
+- Service health - um painel de visualização da saúde e manutenções agendadas que mostram se há algum ponto em degradação 
+- Advisor trás recomendações sobre a infraestrutura que garante benefícios 
