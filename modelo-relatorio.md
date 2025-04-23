@@ -1,19 +1,26 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 22/04/2025
+
 Empresa: Abstergo Industries 
+
 Responsável: Essias Alves Souza
 
+
 ## Introdução
+
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries , realizado por Essias Alves Souza. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
+
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
+
 - AWS ECS - Elastic Container Service.
 - Executar containers.
-- A aplicação será distribuída, sendo servidor Web (Apache) e banco de dados (mySql). Para suportar a aplicação serão necessários dois containers, um para cada aplicação. Com o ECS será possível criar estes containers em poucos segundos.
+- A aplicação será distribuída, sendo servidor Web (Apache) e banco de dados (mySql). Para suportar a aplicação serão necessários dois containers, um para cada aplicação. Com o ECS será possível criar estes containers em
+- poucos segundos.
 
 Etapa 2: 
 - AWS - EKS - Elastic Kubernetes Service.
@@ -33,7 +40,9 @@ A implementação de ferramentas na empresa *Abstergo Industries  tem como esper
 ## Anexos
 
 [What is Amazon EKS?](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
+
 [What is Amazon Elastic Container Service?](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html)
+
 [What is Amazon S3?](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
 
 Assinatura do Responsável pelo Projeto:
